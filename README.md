@@ -1,1 +1,2 @@
 [![Build Status](https://api.travis-ci.org/raarh/ohtu-viikko1.svg?branch=master)](https://travis-ci.org/raarh/ohtu-viikko1)
+[![Coverage Status](https://coveralls.io/repos/github/raarh/ohtu-viikko1/badge.svg?branch=master)](https://coveralls.io/github/raarh/ohtu-viikko1?branch=master)
